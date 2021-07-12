@@ -1,13 +1,22 @@
 {
-  "name": "vidly",
+  "name": "movified",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^4.1.1",
+    "bootstrap-icons": "^1.4.0",
+    "font-awesome": "^4.7.0",
+    "lodash": "^4.17.21",
+    "prop-types": "^15.7.2",
+    "query-string": "^7.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^4.1.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
